@@ -1,4 +1,3 @@
-
-public abstract class TwoWheeler extends Vehicle{
-	abstract void printType(); //선언
+public abstract class TwoWheeler extends Vehicle {
+	abstract void printType(); // 선언
 }

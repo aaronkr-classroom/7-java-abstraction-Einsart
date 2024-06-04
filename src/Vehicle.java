@@ -1,4 +1,3 @@
 public abstract class Vehicle {
-	abstract void printPrice(); //선언
-	
+	abstract void printPrice(); // 선언
 }
